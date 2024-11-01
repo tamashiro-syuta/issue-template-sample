@@ -1,7 +1,7 @@
 name: Bug Report3
 description: 'もしかしてdesc無しでは表示されない？？'
 title: "[Bug]: "
-labels: ["bug", "triage"]
+labels: []
 projects: ["tamashiro-syuta/10"]
 body:
   - type: markdown
