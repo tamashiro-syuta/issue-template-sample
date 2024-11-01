@@ -4,7 +4,7 @@ about: Suggest an idea for this projec
 title: 'A'
 labels: 'B'
 assignees: 'C'
-
+projects: ["tamashiro-syuta/10"]
 ---
 
 **Is your feature request related to a problem? Please describe.**
