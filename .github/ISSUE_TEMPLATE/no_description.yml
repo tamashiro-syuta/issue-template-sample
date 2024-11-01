@@ -6,7 +6,6 @@ projects: ["tamashiro-syuta/10"]
 body:
   - type: markdown
     attributes:
-      label: これはどう表示される？
       value: |
         Thanks for taking the time to fill out this bug report!
         # h1tag
