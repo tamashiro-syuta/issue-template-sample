@@ -2,9 +2,7 @@ name: Bug Report3
 description: 'もしかしてdesc無しでは表示されない？？'
 title: "[Bug]: "
 labels: ["bug", "triage"]
-projects: 
-  - owner: "tamashiro-syuta"
-    project: "issue-template-sample"
+projects: ["tamashiro-syuta/10"]
 assignees:
   - octocat
 body:
