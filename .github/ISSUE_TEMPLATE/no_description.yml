@@ -1,4 +1,5 @@
 name: Bug Report3
+description: 'もしかしてdesc無しでは表示されない？？'
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
