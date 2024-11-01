@@ -8,14 +8,15 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-        # h1tag
-        ## h2tag
   - type: input
     id: contact
     attributes:
       label: Contact Details
       description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      placeholder: |
+        ex. email@example.com
+        # use markdown
+        ## h2 tag
     validations:
       required: false
   - type: textarea
