@@ -1,0 +1,1 @@
+issue-templateを試してみるだけのリポジトリ
