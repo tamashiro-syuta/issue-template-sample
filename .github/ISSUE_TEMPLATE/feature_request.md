@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this projec
-title: ''
-labels: ''
-assignees: ''
+title: 'A'
+labels: 'B'
+assignees: 'C'
 
 ---
 
