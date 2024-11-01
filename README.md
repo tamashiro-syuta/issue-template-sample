@@ -1,1 +1,3 @@
-issue-templateを試してみるだけのリポジトリ
+# issue-templateを試してみるだけのリポジトリ
+
+当たり前だけど、ブランチ切ってtemplate作っても反映されなかった。どんなissueになるか検証難しそう。
